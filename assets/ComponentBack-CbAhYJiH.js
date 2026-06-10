@@ -1,0 +1,1 @@
+/* empty css              */import{e as a,Z as s,$ as e,d as n,I as o,W as t,_ as c}from"./index-DTiAQoV1.js";const r={class:"notice-back"},i=c(a({__name:"ComponentBack",setup(a){const c=s(),i=()=>{c.back()};return(a,s)=>{const c=o;return t(),e("div",r,[n(c,{name:"arrow-left",size:"18",onClick:i})])}}}),[["__scopeId","data-v-7d9a07ec"]]);export{i as _};
